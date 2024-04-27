@@ -1,0 +1,28 @@
+{
+  "suggestions": [
+    {
+      "value": "Андрей",
+      "unrestricted_value": "Андрей",
+      "data": {
+        "surname": null,
+        "name": "Андрей",
+        "patronymic": null,
+        "gender": "MALE",
+        "source": null,
+        "qc": "0"
+      }
+    },
+    {
+      "value": "Анна",
+      "unrestricted_value": "Анна",
+      "data": {
+        "surname": null,
+        "name": "Анна",
+        "patronymic": null,
+        "gender": "FEMALE",
+        "source": null,
+        "qc": "0"
+      }
+    }
+  ]
+}
